@@ -2,7 +2,7 @@
 
 You can download the Universal apk [here](#).
 
-![alt text](https://raw.githubusercontent.com/amirmasadi/react-native-first-app/main/assets/jusatodoscreen.jpg)
+![alt text](https://raw.githubusercontent.com/amirmasadi/second-react-native-app/main/assets/img/theappscreen.jpg)
 
 ### How to use
 
